@@ -1,0 +1,5 @@
+Django
+django-configurations
+django-configurations-base
+django-configurations-ec2
+django-configurations-github-oauth
